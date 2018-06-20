@@ -1,0 +1,6 @@
+2018/05/11 16:09:17
+Issues in file need to fix: 
+
+Row [9], field [DATE_TIME]: Invalid date: [qweqwe].  The row will be skipped.
+ES]: Invalid number: [qwe].  The row will be skipped.
+Row [11], field [TOTAL_PAGES]: Invalid number: [qwe].  The row will be skipped.
